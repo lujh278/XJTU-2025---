@@ -94,3 +94,5 @@ go run ./client/sse-ui
 - 服务器：
   - 保存 `server_state.json`（密文文档 + token 索引）
   - 不具备明文检索能力
+
+bilibili演示视频：https://www.bilibili.com/video/BV11pPTzsEQM/?vd_source=eedeef56d5bcd4a1c2dd8dfa7d97d697
