@@ -1,0 +1,72 @@
+{
+  "index": {
+    "43e96e2ef6fb8fab75e21c2b87f92d55d5568d1831c87f5be6081a966cedae0e": [
+      {
+        "counter": 0,
+        "ciphertext": "AFO/yr1JCwhsxa7k7VuX9MvExgQzRHA57f/7NzTQ3H4="
+      }
+    ],
+    "4a3118a4cf7bd41da404fc7bb12af5439975b46e047b94e5d2efe7c2433aad98": [
+      {
+        "counter": 0,
+        "ciphertext": "j90ySmY3I7TfZl5mjuUM5JosqZUrwn8TZqZ1vVG74xk="
+      }
+    ],
+    "5422c9085f17528557adcff1eb4e16f462f68a253f19b27e2f9c0d61e9c8c94d": [
+      {
+        "counter": 0,
+        "ciphertext": "C9+Had/24E/6Drh5ggsgKqhLpIm8hu4fsMUVMhzDt64="
+      }
+    ],
+    "9028749ac6281b0c7f4c732beafff139bf37024fb333977bb2d20a97ccf71557": [
+      {
+        "counter": 0,
+        "ciphertext": "BZvcMunBeq1cWti4pRI7lRWBARg9LX//X5DB/r7MOYs="
+      }
+    ],
+    "949ede0928ecad58243c5df15062be8a3ce1af8e86eaf219f8527a00ae4c142a": [
+      {
+        "counter": 0,
+        "ciphertext": "3N/iLcc4bwQBaIusYS6BBWoQit0HPyzikJM+EmIahi4="
+      }
+    ],
+    "b88deaacda764adc0549b50f45646adf42cb3a90cbe28fffea0b0d6eebd9ea2a": [
+      {
+        "counter": 0,
+        "ciphertext": "EH8NjeJKtLVMPOvJ2ucPnOOdOE8FkmWLjhYTPgWn/VY="
+      }
+    ],
+    "c62d2358b158788ff977d271c7536a5722710d3972f58d1acca0e79948922c76": [
+      {
+        "counter": 0,
+        "ciphertext": "Vxrs0Vnq/7nw7D5DDyqGQv75GaxxWGRtFQH/3zigL7Y="
+      }
+    ],
+    "ee2ab37ef475b9e304c0bea08d80ab3f07da9caff68f9431f8c597f066f9d41d": [
+      {
+        "counter": 0,
+        "ciphertext": "hBgmyVdQBrq5dqCszNgoPW5B8tEi6FksCFWKiKisbCQ="
+      }
+    ],
+    "f220c7da0ae9e3316c00505c539d05d20d5f547dbae90e8e523cb9d06cddbb11": [
+      {
+        "counter": 0,
+        "ciphertext": "iCkgAoHaa8fngn6+VA1aJBnAM7WdPXFrIi39b1vvYs0="
+      }
+    ]
+  },
+  "documents": {
+    "b9fdda5fbe65924a057affbe60fbe3e2": {
+      "nonce": "tZ9LKT5mi0M72Q7A",
+      "ciphertext": "bB8zaIYvq9q9zgElXTGY1v3C4xDy5sDc5k8r/tVAsxX0v00yHL5cEQwjBIHhuN5qlS/MnGv290Q5v452xX916b/1jiaJ7Pe3v6O4xOQ/5cwI0qsX1tf6+LEgpBmedbEvAw=="
+    },
+    "cd995a55b496413434e9bd9807ec0c3f": {
+      "nonce": "eKXZpCG8cvPJSrlT",
+      "ciphertext": "uB3NrdnWUZWn8teKEs0szQrGW4RF4OUtzJnNBJAGRpxKsFtA4ZuP241vq0gj0sZd97dT0GGuJED0u+LuFe1esTtOgok8Q6fbtzr9QTLKwjzsS+37NctG6VM1Bw909bQ2dkMh/tA="
+    },
+    "ff081b45c8d331ffff873679f2c0a7f5": {
+      "nonce": "2PXL30dBKAUxa5hQ",
+      "ciphertext": "SBNQV/uQIOgKpjhdE/s5Vdn6Ro1rbFEwzbDqV8kk0ZOiDZZ7xuFZKaoXpKz3eDSt8EDL70YpkX5buu6za/jhQg=="
+    }
+  }
+}
